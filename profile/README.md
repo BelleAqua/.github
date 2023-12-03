@@ -1,5 +1,6 @@
+<!-- @format -->
 <center>
 
-![img]('../assets/Logo BelleAqu.jpg')
-  
+![img](../assets/belleaqua.png)
+
 </center>
