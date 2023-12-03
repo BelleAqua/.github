@@ -1,5 +1,5 @@
 <center>
 
-![img]('assets/Logo BelleAqu.jpg')
+![img]('../assets/Logo BelleAqu.jpg')
   
 </center>
